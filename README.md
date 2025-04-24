@@ -76,7 +76,7 @@ To identify smoking habits based on routine health indicators, enabling early in
 
 ## 🔗 Colab Notebook
 
-[Open in Google Colab](https://colab.research.google.com/drive/1FyA-S01jiYnfqv0M_TW1iU7t-yWBPfsh?authuser=1#scrollTo=QogeawzOwO1M&uniqifier=9)
+[Open in Google Colab]https://colab.research.google.com/drive/1xhF_LnG16MOdeHY9I5xzG8O0jDj3PU_v#scrollTo=lIXqLZ9CVBTW
 
 ---
 
